@@ -1,0 +1,17 @@
+POST https://redesigned-train-jjw45g699xph5wgr-8083.app.github.dev/api/policies/execute
+X-CSRF-TOKEN: fsVi_fMrHATDgTR68ypNoMWUA343RMMksfgzpzkmtDAY1IfLG_0DxcYTJGHu4wBPlgd5wvyhLkZSJ6AJ18FSl1oegQAu4reu
+Content-Type: application/json
+
+{
+  "age": 25
+}
+
+#####
+
+#####
+GET https://redesigned-train-jjw45g699xph5wgr-8083.app.github.dev/actuator/health
+
+
+
+
+###

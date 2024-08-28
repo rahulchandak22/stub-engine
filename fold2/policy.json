@@ -1,0 +1,10 @@
+{
+    "membership": {
+        "rules": [
+            {
+                "type": "AgeRule",
+                "minAge": 18
+            }
+        ]
+    }
+}
