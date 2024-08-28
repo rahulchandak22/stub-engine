@@ -1,0 +1,10 @@
+package com.example.rules;
+
+import com.example.model.UserInput;
+
+rule "ProductA Age Check"
+when
+    $user : UserInput(age >= 18)
+then
+    System.out.println("ProductA: User is 18 or older.");
+end
